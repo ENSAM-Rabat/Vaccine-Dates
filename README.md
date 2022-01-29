@@ -12,9 +12,9 @@ For each test case, print a single line containing one string - "Too Early" (wit
 
 # Constraints
 
-1≤T≤105
-1≤D≤109
-1≤L≤R≤109
+    1≤T≤105
+    1≤D≤109
+    1≤L≤R≤109
 
 # Subtasks
 
@@ -23,18 +23,18 @@ Subtask 1 (100 points): Original constraints
 
 # Sample Input 1
 
-4
-10 8 12 
-14 2 10
-4444 5555 6666 
-8 8 12
+    4
+    10 8 12 
+    14 2 10
+    4444 5555 6666 
+    8 8 12
 
 # Sample Output 1
 
-Take second dose now
-Too Late
-Too Early
-Take second dose now
+    Take second dose now
+    Too Late
+    Too Early
+    Take second dose now
 
 # Explanation
 
