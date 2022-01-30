@@ -13,8 +13,8 @@ For each test case, print a single line containing one string - "Too Early" (wit
 # Constraints
 
     1≤T≤105
-    1≤D≤109
-    1≤L≤R≤109
+    1≤D≤10^6
+    1≤L≤R≤10^6
 
 # Subtasks
 
